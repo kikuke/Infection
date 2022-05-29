@@ -1,0 +1,17 @@
+Option,Player
+Rank,1
+Exp,0
+MaxExp,50
+Gold,0
+Score,0
+CorePart,BaseCore
+HeadPart,BaseHead
+BodyPart,BaseBody
+LeftArmPart,BaseArm
+RightArmPart,BaseArm
+LegPart,BaseLeg
+Load,null
+Soft,null
+Operate1,FALSE
+Operate2,FALSE
+Operate3,FALSE

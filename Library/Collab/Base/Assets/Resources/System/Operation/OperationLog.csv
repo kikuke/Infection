@@ -1,0 +1,13 @@
+Option,Operation5,Operation6,Operation7,Operation8,Operation9,Operation10,dfefadfeadsfesf,www,123,sh
+Zone,OperateZone1,OperateZone1,OperateZone1,OperateZone1,OperateZone1,OperateZone1,OperateZone1,OperateZone1,OperateZone1,OperateZone1
+IsClear,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,True,True,True,True
+Time,6.008825,6.008825,6.008825,6.008825,6.008825,6.008825,6.010254,3.007475,3.009999,3.003116
+Score,10950,10950,10950,10950,10950,10950,10950,10550,10450,10600
+Kill,7,7,7,7,7,7,7,2,0,3
+CollectLevel,1,1,1,1,1,1,1,1,1,1
+CorePart,BaseCore,BaseCore,BaseCore,BaseCore,BaseCore,BaseCore,BaseCore,BaseCore,BaseCore,BaseCore
+HeadPart,BaseHead,BaseHead,BaseHead,BaseHead,BaseHead,BaseHead,BaseHead,BaseHead,BaseHead,BaseHead
+BodyPart,BaseBody,BaseBody,BaseBody,BaseBody,BaseBody,BaseBody,BaseBody,BaseBody,BaseBody,BaseBody
+LeftArmPart,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm
+RightArmPart,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm,BaseArm
+LegPart,BaseLeg,BaseLeg,BaseLeg,BaseLeg,BaseLeg,BaseLeg,BaseLeg,BaseLeg,BaseLeg,BaseLeg

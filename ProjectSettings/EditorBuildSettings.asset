@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Logo.unity
+    guid: 18490832476276a4b927ca471e898f25
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 6f72136e369407e4399a14fc935b1b56
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: efde738c345fdaa49bc421582dec1473
+  - enabled: 1
+    path: Assets/Scenes/SupplyShop.unity
+    guid: 8b0c577cba6a3d54082d5fe495789705
+  - enabled: 1
+    path: Assets/Scenes/OperationLog.unity
+    guid: 087a5bc8196a1f14889d65acbcd6e93d
+  - enabled: 1
+    path: Assets/Scenes/OperationArchive.unity
+    guid: c9902d8749bf3124daf1caa65f7f699a
+  - enabled: 1
+    path: Assets/Scenes/Mechanic.unity
+    guid: 06cd8ca8e75550441b099f6eef67d986
+  - enabled: 1
+    path: Assets/Scenes/SelectOperation.unity
+    guid: dc8fb9e42737ee94388ed8f3b3ba34fd
+  - enabled: 1
+    path: Assets/Scenes/OperateZone1.unity
+    guid: 29b6feaac2b4f784b8d02c1b1751712a
+  - enabled: 1
+    path: Assets/Scenes/OperateZone2.unity
+    guid: e41ab74e0a69d994b968799c3ce55a9e
+  - enabled: 1
+    path: Assets/Scenes/OperateZone3.unity
+    guid: fd2bc0e8d8ce38c4995b29c01d462e10
+  - enabled: 1
+    path: Assets/Scenes/ScoreCompute.unity
+    guid: 74049d9f0a87c8c408d6335a431c15af
+  - enabled: 1
+    path: Assets/Scenes/OperationTerminate.unity
+    guid: 34c4332284196214bb117dcafdbb89ec
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

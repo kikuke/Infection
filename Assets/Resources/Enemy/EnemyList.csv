@@ -1,0 +1,4 @@
+Option,Enemy1,Enemy2,Enemy3,Enemy4
+MaxHp,5,3,30,6
+Damage,1.5,2,5,6
+MoveSpeed,3,6,2,5.7

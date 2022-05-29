@@ -1,0 +1,2 @@
+Hardware,Parts,Software,Satellites,HardwareList,SoftwareList,EnemyList,OperationArchive,OperationLog,OperationSetting,MainInformation,PartsInformation,MessageEvent
+System/Hardware,System/Hardware/Parts,System/Software,System/Software/Satellites,System/Hardware/HardwareList,System/Software/SoftwareList,Enemy/EnemyList,System/Operation/OperationArchive,System/Operation/OperationLog,System/Operation/OperationSetting,System/Main/MainInformation,System/Main/PartsInformation,System/Message/MessageEvent

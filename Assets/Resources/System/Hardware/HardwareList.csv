@@ -1,0 +1,17 @@
+Option,BaseLeg,BaseHead,BaseBody,BaseCore,BaseArm,MachineGun,Flamethrower,ShieldDrone,LaserHead,ShotGun,RocketLauncher,DataCollectionDrone,JetEngine,IonDrive,Lightsaber,DroneBomb,RailGun,SupportingFireDrone,NuclearPunch,Caterpillar,FourLegged,HeatSink,RaderHead,BroadbandHead,TitaniumBody,StealthBody,HeatReleaseBody,ExoskeletonBody,FlyingLeg,NuclearFusionCore
+Part,Leg,Head,Body,Core,Arm,Arm,Arm,Drone,Head,Arm,Arm,Drone,Core,Core,Arm,Drone,Arm,Drone,Arm,Leg,Leg,Core,Head,Head,Body,Body,Body,Body,Leg,Core
+Level,1,1,1,1,1,4,2,5,4,2,3,1,2,3,4,2,2,3,3,4,2,3,2,5,3,3,3,4,2,5
+MoveSpeed,1,0,0,0,0,-1,0,0,0,0,0,0,1,1,0,0,0,0,0,-2,2,0,0,0,0,0,0,-1,2,0
+MaxHp,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,10,3,3,5,0,0
+Defend,0,0,10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,100,5,0,0,0,100,70,70,150,0,0
+Damage,0,0,0,0,3,2,1,0,5,3,10,0,0,0,15,20,10,3,100,3,0,0,0,0,0,0,3,0,0,0
+Cooltime,0,0,0,0,0.6,0.2,2,15,5,2,4,0,0,30,5,4,3,0.6,7,0.5,0,0,0,0,0,30,10,0,0,0
+AtkRange,0,0,0,0,9,8,5,0,9,7,20,6,0,10,5,10,8,6,5,0,0,0,0,0,0,0,5,0,0,0
+CooltimePer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.1,0,0,0,0,0,0,0.2
+AddDamPer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.2
+AddAtkSpPer,0,0,0,0.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AddAtkRangePer,0,0.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0.2
+AddMvSpPer,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+AddDefendPer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+AddMaxHpPer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+DroneNum,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0
